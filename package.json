@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node常用方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "爬去页面",
+    "使用node",
+    "child_progress",
+    "调用终端命令"
+  ],
+  "author": "albanjin",
+  "license": "ISC"
+}
